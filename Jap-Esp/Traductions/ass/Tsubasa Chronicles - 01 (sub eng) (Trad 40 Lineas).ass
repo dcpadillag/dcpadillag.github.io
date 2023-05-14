@@ -1,0 +1,73 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Style1,Arial,16,&H0080ECFF,&H0080ECFF,&H00000000,&H82000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,12,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:03:02.24,0:03:05.30,Style1,Comment,0000,0000,0000,,Ya volví, padre.
+Dialogue: 0,0:03:08.91,0:03:10.64,Style1,Comment,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:03:12.25,0:03:14.59,Style1,Comment,0000,0000,0000,,¡Syaoran!
+Dialogue: 0,0:03:14.59,0:03:17.59,Style1,Comment,0000,0000,0000,,¡Bienvenido!\N¿Qué tal las ruinas?
+Dialogue: 0,0:03:17.59,0:03:21.59,Style1,Comment,0000,0000,0000,,¿Te lastimaste? ¿tienes fiebre?\N¿has comido bien? 
+Dialogue: 0,0:03:21.59,0:03:25.60,Style1,Comment,0000,0000,0000,,Ah... sí, todo estuvo en orden.
+Dialogue: 0,0:03:25.60,0:03:27.93,Style1,Comment,0000,0000,0000,,Ese lenguaje formal.
+Dialogue: 0,0:03:27.93,0:03:30.60,Style1,Comment,0000,0000,0000,,Te he dicho que odio ese lenguaje.
+Dialogue: 0,0:03:30.60,0:03:32.60,Style1,Comment,0000,0000,0000,,Pero princesa...
+Dialogue: 0,0:03:32.60,0:03:34.94,Style1,Comment,0000,0000,0000,,Sakura.
+Dialogue: 0,0:03:34.94,0:03:37.27,Style1,Comment,0000,0000,0000,,Te he dicho que me llames por mi nombre.
+Dialogue: 0,0:03:37.27,0:03:39.28,Style1,Comment,0000,0000,0000,,Ah... sí
+Dialogue: 0,0:03:39.28,0:03:41.28,Style1,Comment,0000,0000,0000,,''Sa-ku-ra.''
+Dialogue: 0,0:03:41.28,0:03:43.71,Style1,Comment,0000,0000,0000,,S- Sakura.
+Dialogue: 0,0:03:45.62,0:03:47.28,Style1,Comment,0000,0000,0000,,Lo siento...
+Dialogue: 0,0:03:47.28,0:03:48.91,Style1,Comment,0000,0000,0000,,Peso mucho, ¿verdad?
+Dialogue: 0,0:03:51.62,0:03:53.96,Style1,Comment,0000,0000,0000,,Estoy muy feliz de que hayas regresado, Syaoran.
+Dialogue: 0,0:03:53.96,0:03:55.72,Style1,Comment,0000,0000,0000,,Estoy en casa.
+Dialogue: 0,0:03:59.30,0:04:01.57,Style1,Comment,0000,0000,0000,,¿Cuánto tiempo vas a quedarte esta vez?
+Dialogue: 0,0:04:01.57,0:04:05.57,Style1,Comment,0000,0000,0000,,Pues solo vengo a cambiarme de ropa,\Nregresare al trabajo por la noche.
+Dialogue: 0,0:04:05.57,0:04:06.97,Style1,Comment,0000,0000,0000,,Ah.
+Dialogue: 0,0:04:10.24,0:04:12.38,Style1,Comment,0000,0000,0000,,Necesito comprar algunas cosas
+Dialogue: 0,0:04:12.38,0:04:14.24,Style1,Comment,0000,0000,0000,,para la excavación de mañana.
+Dialogue: 0,0:04:14.24,0:04:15.91,Style1,Comment,0000,0000,0000,,¿Quieres venir conmigo?
+Dialogue: 0,0:04:21.25,0:04:24.25,Style1,Comment,0000,0000,0000,,¿Qué es lo que tanto te preocupa desde hace rato?
+Dialogue: 0,0:04:24.25,0:04:26.92,Style1,Comment,0000,0000,0000,,Tal vez, ¿te volviste a escapar del castillo?
+Dialogue: 0,0:04:26.92,0:04:29.99,Style1,Comment,0000,0000,0000,,Es que cada vez que digo que voy a donde Syaoran,
+Dialogue: 0,0:04:29.99,0:04:32.93,Style1,Comment,0000,0000,0000,,mi hermano se pone de mal humor.
+Dialogue: 0,0:04:32.93,0:04:35.60,Style1,Comment,0000,0000,0000,,El rey solo se preocupa por su hermana menor.
+Dialogue: 0,0:04:35.60,0:04:40.16,Style1,Comment,0000,0000,0000,,¿Será así? Solo me parece que trata de molestarme.
+Dialogue: 0,0:04:45.28,0:04:47.38,Style1,Comment,0000,0000,0000,,¡Ah! ¡Se ve delicioso!
+Dialogue: 0,0:04:47.38,0:04:50.61,Style1,Comment,0000,0000,0000,,Syaoran, compremos esto para la merienda de hoy.
+Dialogue: 0,0:04:50.61,0:04:53.28,Style1,Comment,0000,0000,0000,,¿Quieres llevarlo?
+Dialogue: 0,0:04:53.28,0:04:54.62,Style1,Comment,0000,0000,0000,,¡Eh! ¿Segura? 
+Dialogue: 0,0:04:54.62,0:04:56.95,Style1,Comment,0000,0000,0000,,Siendo para la princesa, claro.
+Dialogue: 0,0:04:56.95,0:04:58.96,Style1,Comment,0000,0000,0000,,¡La princesa esta aquí!
+Dialogue: 0,0:04:58.96,0:05:00.69,Style1,Comment,0000,0000,0000,,¿La princesa?
+Dialogue: 0,0:05:03.23,0:05:07.56,Style1,Comment,0000,0000,0000,,Las personas de esta tierra\nrealmente quieren a la princesa.
+Dialogue: 0,0:05:07.56,0:05:10.57,Style1,Comment,0000,0000,0000,,¡Hay esta la Princesa!
+Dialogue: 0,0:05:10.57,0:05:11.90,Style1,Comment,0000,0000,0000,,¡La guardia del castillo!
+Dialogue: 0,0:05:11.90,0:05:16.90,Style1,Comment,0000,0000,0000,,
