@@ -57,8 +57,9 @@ body {
 
 /*header section*/
 .hero_area {
-  background-image: url(../images/hero-bg.jpg);
-  background-size: 100%;
+  /*background-image: url(../images/hero-bg.jpg);
+  background-size: 100%;*/
+  background-color: darkslategrey;
 }
 
 .sub_page .hero_area {
@@ -237,7 +238,7 @@ a:focus {
 
 .how_section .how_container .box .detail-box h5 {
   font-weight: bold;
-  position: relative;
+  position: relative
 }
 
 .how_section .how_container .box .detail-box h5::before {
