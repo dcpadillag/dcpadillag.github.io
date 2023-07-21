@@ -274,9 +274,9 @@ a:focus {
   display: block;
 }
 
-.how_section .how_container .box:hover .detail-box p {
+/* .how_section .how_container .box:hover .detail-box p {
   color: #393a3c;
-}
+} */
 
 .how_section .btn-box {
   display: -webkit-box;
